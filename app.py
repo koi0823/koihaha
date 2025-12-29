@@ -6,6 +6,7 @@ import calculation as calc
 import optimizer
 import pandas as pd
 import random
+import plotly.graph_objects as go
 
 # 1. Page Config
 st.set_page_config(page_title="koi", layout="wide")

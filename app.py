@@ -1,3 +1,5 @@
+pip install streamlit pandas plotly
+
 import streamlit as st
 import dataset
 import calculation as calc
